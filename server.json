@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Veggie",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
+      "price": "212.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
@@ -21,8 +21,32 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://static-images.ifood.com.br/image/upload/t_high/webapp/landing/dish-right.png",
+      "name": "Prato Executivo",
+      "price": "20.50",
+      "description": "Arroz, feijão, bife e  batata frita (salada opcional)",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://thumbnail.imgbin.com/25/5/17/imgbin-fish-finger-broccoli-food-dish-vegetable-prato-comida-CNupKSqfJ4GvDsgpv1UuwUTcy_t.jpg",
+      "name": "novo",
+      "price": "10.00",
+      "description": "prato executivo com peixe, arroz, salada e legumes",
+      "available": true,
+      "id": 5
+    },
+    {
+      "image": "https://png.pngtree.com/png-clipart/20190726/ourmid/pngtree-a-plate-of-food-pasta-spaghetti-png-image_1528268.jpg",
+      "name": "Macarrão",
+      "price": "30.00",
+      "description": "Macarrão com molho de tomate, queijo ralado e carne",
+      "available": true,
+      "id": 8
     }
   ]
 }
